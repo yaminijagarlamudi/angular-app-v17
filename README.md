@@ -1,5 +1,7 @@
 # AngularAppPractice
 
+This angular app uses Angular version 17 leveraging concepts like Signals, newContolFlowBlocks, Custom Directives and Pipes.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7.
 
 ## Development server
